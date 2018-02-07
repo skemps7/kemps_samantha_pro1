@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.hidden
+{
+	display: none;
+}
+
+.clearfix
+{
+
+}
+
+#topBar
+{
+	background-color: #646060;
+	height: 30px;
+}
+
+#siteContainer
+{
+	width: 1450px;
+	height: 967px;
+	background-image: url(../images/background_image.jpg);
+}
+
+#mainNav
+{
+	margin-left: 100px;
+	margin-top: 50px;
+	list-style-type: none;
+	font-family: "Arial Narrow",sans-serif;
+	font-size: 22px;
+}
+
+#mainNav a
+			{color: #fff;
+			text-decoration: none;}
+
+#mainNav a:hover
+			{color: #646060;
+			text-decoration: underline;}
+
+ul li
+{
+	display: inline;
+	margin-right: 20px;
+}
+
+#about h3
+{
+font-family: "Noteworthy", sans-serif;
+font-size: 45px;
+margin-left: 100px;
+margin-top: 50px;
+}
+
+#about p
+{
+	margin-top: 50px;
+	margin-left: 120px;
+	width: 550px;
+	height: 650px;
+	text-align: center;
+	line-height: 40px;
+	font-size: 20px;
+	font-family: "Noteworthy", sans-serif;
+	background-color: #fff;
+	Background: rgba(255,255,255,0.5);
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
+}
+#social
+{
+	margin-left: 120px;
+	width: 550px;
+	background-color: #fff;
+	Background: rgba(255,255,255,0.5);
+	text-align: center;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
