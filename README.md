@@ -1,1 +1,5 @@
-# kemps_samantha_pro1
+# About Me!
+
+Built with HTML5, CSS
+
+Contributors: Samantha Kemps!
